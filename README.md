@@ -2,8 +2,6 @@
 <br>
   <img src=".github/logo.svg" alt="proffy-next-level-week-02" width="300">
 <br>
-<br>
-Proffy
 </h1>
 
 <p align="center">Projeto de plataforma educacional com objetivo de conectar alunos e professores.</p>
