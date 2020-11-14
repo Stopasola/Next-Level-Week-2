@@ -123,12 +123,12 @@ function TeacherForm() {
                             value={subject}
                             onChange={(e) => { setSubject(e.target.value) }}
                             options={[
-                                { value: 'Programação', label: 'Programação' },
-                                { value: 'Análise de Circuitos Elétricos', label: 'Análise de Circuitos Elétricos' },
-                                { value: 'Cálculo Diferencial e Integral', label: 'Cálculo Diferencial e Integral' },
-                                { value: 'Eletromagnetismo', label: 'Eletromagnetismo' },
-                                { value: 'Eletrônica Digital', label: 'Eletrônica Digital' },
-                                { value: 'Propagação de Ondas e Guias', label: 'Propagação de Ondas e Guias' },
+                                { value: 'Algoritmos', label: 'Algoritmos' },
+                                { value: 'Estrutura de Dados', label: 'Estrutura de Dados' },
+                                { value: 'Sistemas Operacionais', label: 'Sistemas Operacionais' },
+                                { value: 'Circuitos Eletrônicos', label: 'Circuitos Eletrônicos' },
+                                { value: 'Sistemas Embarcados', label: 'Sistemas Embarcados' },
+                                { value: 'Calculo Numérico', label: 'Calculo Numérico' },
                             ]} />
 
                         <Input

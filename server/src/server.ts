@@ -8,11 +8,6 @@ app.use(express.json());
 app.use(cors());
 app.use(routes);
 
-// GET: buscar ou listar info existente
-// POST: criar info
-// PUT: atualizar info existente
-// DELETE: deletar info existente
-
 // request body: dados para criação ou atualização de um registro
 // route params: used to identify which resource to update or delete (e.g. :id)
 // query params: paginação, filtros, ordenação 
